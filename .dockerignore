@@ -1,0 +1,18 @@
+.git
+.github
+.venv
+__pycache__
+*.pyc
+*.pyo
+.pytest_cache
+.mypy_cache
+.ruff_cache
+changes
+docs
+tests
+public_keys
+tmp
+data/stock-y-ventas.zip
+data/stock-y-ventas/Ventas.db
+data/stock-y-ventas/Ventas_2.db
+data/stock-y-ventas/base de datos.sql

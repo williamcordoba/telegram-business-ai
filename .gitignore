@@ -23,6 +23,11 @@ var/
 .installed.cfg
 *.egg
 .env
+data/stock-y-ventas.zip
+data/stock-y-ventas/Ventas.db
+data/stock-y-ventas/Ventas_2.db
+data/stock-y-ventas/base de datos.sql
+tmp/
 .pybuild
 debian/tmp
 debian/python3-telegram

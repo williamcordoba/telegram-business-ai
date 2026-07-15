@@ -1,0 +1,4 @@
+# Cliente oficial de OpenAI usado en modo compatible con la API de Groq.
+openai>=1.0
+matplotlib>=3.9
+tornado>=6.4,<7
